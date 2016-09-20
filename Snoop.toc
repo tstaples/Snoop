@@ -1,0 +1,8 @@
+## Interface: 70300
+## Title: Snoop
+## Author: Tyler Staples
+## Version: 0.1
+
+Herbs.lua
+Snoop.lua
+Snoop.xml
